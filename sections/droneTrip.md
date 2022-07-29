@@ -63,6 +63,7 @@ curl -X 'GET' \
 |--|--|--|
 | droneID | The drone you selected based on ID. |integer
 | {tripDate} | Date of the trip, presented in YYYYMMDD | integer
+| tripCount | Sequentially counts the trips taken that day | integer
 | tripStartTime | The time that the trip started, calculated at the moment the drone lifts off. Unix format (ms since 1970) in ETC |integer
 | tripEndTime | The time that the trip ended, calculated at the moment the drone lands. Unix format (ms since 1970) in ETC |integer
 |tripDuration | The total duration of the trip, measured in millisecionds | integer
