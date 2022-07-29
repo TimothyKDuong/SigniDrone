@@ -32,13 +32,20 @@ curl -X 'PUT' \
 
     https://signiant.com/signidroneapi/droneInfo?droneID=0001+droneName="DrondaCivic"
 
+## Sample Response
+```json
+{ "code": 200
+  "message": "successful operation",
+}
+    
+
 ### Example Value
 ```json
 {
   "droneID": 0001,
   "userName": Sig Niant
   "userID": 199714911420
-  "droneName": "QuickerPickerUpper",
+  "droneName": "DrondaCivic",
   "droneModel": "DroneDeck2.0",
   "droneOnline": "true"
   "droneLocLat": 45.4215,
