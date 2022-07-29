@@ -46,7 +46,7 @@ curl -X 'PUT' \
 }
 ```
 
-See also: [droneInfo] (https://github.com/TimothyKDuong/SigniDroneAPI/edit/main/sections/droneInfo.md)
+See also: [droneInfo](https://github.com/TimothyKDuong/SigniDroneAPI/edit/main/sections/droneInfo.md)
 
 ### Responses 
 |Response Item| Description| 
