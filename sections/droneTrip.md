@@ -38,10 +38,18 @@ curl -X 'GET' \
 	  {
 		  "droneID": 0001,
 		  20220101: {
-			  "tripStartTime" : 1659097012012,
-			  "tripEndTime" : 1659104312219,
-			  "tripDuration" : 7300
-			  "tripType" : "fliming"
+			  "tripCount" : 01 {
+				  "tripStartTime" : 1659097012012,
+				  "tripEndTime" : 1659104312219,
+				  "tripDuration" : 7300207
+				  "tripType" : "fliming"
+				  }
+				 "tripCount" : 02 {
+				 "tripStartTime" : 1659127012012,
+				  "tripEndTime" : 1659129312219,
+				  "tripDuration" : 2300207
+				  "tripType" : "delivery"
+				  }
 			  }
 		}
 	]	  
@@ -55,5 +63,6 @@ curl -X 'GET' \
 | {tripDate} | Date of the trip, presented in YYYYMMDD | integer
 | tripStartTime | The time that the trip started, calculated at the moment the drone lifts off. Unix format (ms since 1970) in ETC |integer
 | tripEndTime | The time that the trip ended, calculated at the moment the drone lands. Unix format (ms since 1970) in ETC |integer
+|tripDuration | The total duration of the trip, measured in millisecionds | integer
 | tripType |  The type of trip the drone was one, as chosen by the user. The currently available types of trips are "filming", "delivery", "sport", and other|string`
     
