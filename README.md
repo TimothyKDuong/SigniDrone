@@ -15,6 +15,6 @@ Before you can access the SigniDrone API and begin making requests, you'll need 
 
 [droneInfo](https://github.com/TimothyKDuong/SigniDroneAPI/blob/main/sections/droneInfo.md)
 
-[droneNameChange]
+[droneNameChange](https://github.com/TimothyKDuong/SigniDroneAPI/blob/main/sections/droneChange.md)
 
 
