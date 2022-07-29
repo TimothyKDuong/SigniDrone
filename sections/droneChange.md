@@ -24,13 +24,13 @@ changes information for a specific droneID
 
 ```bash
 curl -X 'PUT' \
-  ' https://signiant.com/signidroneapi/droneChange?droneID=0001+droneName="DrondaCivic"' \
+  ' https://signiant.com/signidroneapi/droneChange?droneID=0001&droneName="DrondaCivic"' \
   -H 'accept: application/json'
 ```
 
 ## Sample Request URL
 
-    https://signiant.com/signidroneapi/droneInfo?droneID=0001+droneName="DrondaCivic"
+    https://signiant.com/signidroneapi/droneInfo?droneID=0001&droneName="DrondaCivic"
 
 ## Sample Response
 ```json
