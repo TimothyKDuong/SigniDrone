@@ -54,6 +54,7 @@ curl -X 'GET' \
 		}
 	]	  
 }
+```
 
 ### Response definitions
 |Query string parameter| Description |Data type |
