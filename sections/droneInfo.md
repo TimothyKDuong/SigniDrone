@@ -29,7 +29,7 @@ curl -X 'GET' \
 ```json
 {
   "droneID": 0001,
-  "userName": Sig Niant
+  "userName": "Sig Niant"
   "userID": 199714911420
   "droneName": "QuickerPickerUpper",
   "droneModel": "DroneDeck2.0",
