@@ -12,6 +12,9 @@ Before you can access the SigniDrone API and begin making requests, you'll need 
 > Before obtaining your API key, you must create and link your Signiant account. Instructions on how to do so can be found [here](https://www.signiant.com/) . 
 
 ## Endpoints 
+
 droneId
+
 droneLoc
+
 weatherLoc
