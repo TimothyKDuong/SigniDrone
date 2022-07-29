@@ -10,3 +10,8 @@ Welcome to the SigniDrone<sup>tm</sup>  API, Signiants proprietary drone program
 
 Before you can access the SigniDrone API and begin making requests, you'll need access to your own API key. Please read the [authentication guide](https://developer.signiant.com/jet/api-documentation.html) to obtain your API key. 
 > Before obtaining your API key, you must create and link your Signiant account. Instructions on how to do so can be found [here](https://www.signiant.com/) . 
+
+## Endpoints 
+droneId
+droneLoc
+weatherLoc
