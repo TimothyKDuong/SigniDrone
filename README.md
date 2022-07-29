@@ -4,7 +4,7 @@ This repository, project, and all documents within are all fictitious materials,
 # SigniDrone
 Signiant's very legitimate next business model, part of the Signiant 2.0 push, to expand beyond media file sharing and deliver the Signiant quality guarantee to all aspects of your life. 
 
-# Welcome to SigniDrone
+# Welcome to SigniDrone API
 
 Welcome to the SigniDrone<sup>tm</sup>  API, Signiants proprietary drone program, and the first part of the next generation Signiant 2.0<sup>tm</sup> experience! If you're looking to configure your SigniDrone, you've come to the right place.
 
