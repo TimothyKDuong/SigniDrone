@@ -3,7 +3,7 @@ This repository, project, and all documents within are all fictitious materials,
 
 # Welcome to SigniDrone API
 
-Welcome to the SigniDrone<sup>tm</sup>  API, Signiants proprietary drone program, and the first part of the next generation Signiant 2.0<sup>tm</sup> experience! If you're looking to configure your SigniDrone, you've come to the right place.
+Welcome to the SigniDrone<sup>tm</sup>  API, Signiants proprietary drone program, and the first part of the next generation Signiant 2.0<sup>tm</sup> experience! If you're looking to configure your SigniDrone<sup>tm</sup> , you've come to the right place.
 
 
 ## Authentication
