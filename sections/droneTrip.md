@@ -37,7 +37,7 @@ curl -X 'GET' \
   "droneTrip":[
 	  {
 		  "droneID" : "101",
-		  20220101 : {
+		  "20220101" : {
 			  "tripCount": "1" {
 				  "tripStartTime" : 1659097012012,
 				  "tripEndTime" : 1659104312219,
