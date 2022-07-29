@@ -50,7 +50,7 @@ See also: [droneInfo](https://github.com/TimothyKDuong/SigniDroneAPI/edit/main/s
 
 ### Responses 
 |Response Item| Description| 
-|--|--|--|--|
+|--|--|
 | 200 |Successful operation
 | 400 | Invalid inputs supplied
 | 404 | DroneID not found |
