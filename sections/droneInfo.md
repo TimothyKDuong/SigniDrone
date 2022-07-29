@@ -44,5 +44,5 @@ curl -X 'GET' \
 | droneModel | The model of drone. | string
 | droneStatus | The status of the drone. Set at 0 for offline and 1 for online|integer
 | droneLocLat | Geographical coordinates of the drone's location (latitude) |integer
-| droneLocLon |  Geographical coordinates of the drone's location (longitude)|integer`
+| droneLocLon |  Geographical coordinates of the drone's location (longitude)|integer
     
