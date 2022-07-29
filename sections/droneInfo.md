@@ -42,7 +42,7 @@ curl -X 'GET' \
 |--|--|--|
 | droneName | The given name of the drone. Set when the drone was created |string
 | droneModel | The model of drone. | string
-| droneStatus | The status of the drone. Set at 0 for offline and 1 for online|integer
+| droneOnline | The status of the drone. Indicates whether the drone is online or offline. The returned value is true if the drone is online and false if it is offline|integer
 | droneLocLat | Geographical coordinates of the drone's location (latitude) |integer
 | droneLocLon |  Geographical coordinates of the drone's location (longitude)|integer
     
