@@ -29,6 +29,8 @@ curl -X 'GET' \
 ```json
 {
   "droneID": 0001,
+  "userName": Sig Niant
+  "userID": 199714911420
   "droneName": "QuickerPickerUpper",
   "droneModel": "DroneDeck2.0",
   "droneOnline": "true"
@@ -40,6 +42,8 @@ curl -X 'GET' \
 ### Response definitions
 |Query string parameter| Description |Data type |
 |--|--|--|
+| userName | The name of the user the drone is registered to |string
+| userID | The userID of the user that the drone is resgistered to|string
 | droneName | The given name of the drone. Set when the drone was created |string
 | droneModel | The model of drone. | string
 | droneOnline | The status of the drone. Indicates whether the drone is online or offline. The returned value is <em>true</em> if the drone is online and <em>false</em> if it is offline|integer
