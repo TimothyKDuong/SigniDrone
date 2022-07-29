@@ -37,7 +37,7 @@ curl -X 'PUT' \
 { "code": 200
   "message": "successful operation",
 }
-    
+```    
 
 ### Example Value
 ```json
