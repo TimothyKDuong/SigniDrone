@@ -13,6 +13,6 @@ Before you can access the SigniDrone API and begin making requests, you'll need 
 
 ## Endpoints 
 
-droneInfo
+[droneInfo](https://github.com/TimothyKDuong/SigniDroneAPI/blob/main/sections/droneInfo.md)
 
 
