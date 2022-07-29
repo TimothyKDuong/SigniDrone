@@ -39,7 +39,7 @@ curl -X 'PUT' \
 }
 ```    
 
-### Example Value
+## Example Value
 ```json
 {
   "droneID": 0001,
@@ -52,12 +52,11 @@ curl -X 'PUT' \
   "droneLocLon": 75.6972,
 }
 ```
-
-See also: [droneInfo](https://github.com/TimothyKDuong/SigniDroneAPI/edit/main/sections/droneInfo.md)
-
 ### Responses 
 |Response Item| Description| 
 |--|--|
 | 200 |Successful operation
 | 400 | Invalid inputs supplied
 | 404 | DroneID not found |
+
+
