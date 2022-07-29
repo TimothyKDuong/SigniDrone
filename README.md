@@ -13,8 +13,6 @@ Before you can access the SigniDrone API and begin making requests, you'll need 
 
 ## Endpoints 
 
-droneId
+droneInfo
 
-droneLoc
 
-weatherLoc
