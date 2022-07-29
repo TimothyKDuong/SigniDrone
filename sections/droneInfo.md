@@ -31,7 +31,7 @@ curl -X 'GET' \
   "droneID": 0001,
   "droneName": "QuickerPickerUpper",
   "droneModel": "DroneDeck2.0",
-  "droneStatus": 0
+  "droneOnline": "true"
   "droneLocLat": 45.4215,
   "droneLocLon": 75.6972,
 }
