@@ -42,8 +42,8 @@ curl -X 'PUT' \
 ## Example Value
 ```json
 {
-  "droneID": 0001,
-  "userName": Sig Niant
+  "droneID": 101,
+  "userName": "Sig Niant"
   "userID": 199714911420
   "droneName": "DrondaCivic",
   "droneModel": "DroneDeck2.0",
