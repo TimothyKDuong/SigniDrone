@@ -43,17 +43,19 @@ curl -X 'GET' \
 				  "tripEndTime" : 1659104312219,
 				  "tripDuration" : 7300207
 				  "tripType" : "fliming"
-				  }
+				  },
 				 "tripCount": 02 {
 				 "tripStartTime" : 1659127012012,
 				  "tripEndTime" : 1659129312219,
 				  "tripDuration" : 2300207
 				  "tripType" : "delivery"
-				  }
+				  },
 			  }
 		}
 	]	  
 }
+
+
 ```
 
 ### Response definitions
